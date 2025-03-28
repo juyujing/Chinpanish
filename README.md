@@ -116,7 +116,7 @@ b) 難解または曖昧な語は → ローマ字表記に変換
 ---
 
 
-# Chinpanish Translation Rules v1.5 (Japanese | English)
+# Chinpanish Translation Rules v1.5 (English Version)
 
 ---
 
